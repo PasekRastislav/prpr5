@@ -14,6 +14,7 @@ void vymen_ukazovatele(int **x,int **y)
 
 int main(void)
 {
+    printf(",");
     int a=10,b=14;
     int *p_a,*p_b;
     p_a=&a;
